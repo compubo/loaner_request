@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Computer">4afd734e988d70107f440dfe35f5a03f</application>
+        <filter/>
+        <name>Computer_oaners</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_cdltd_loaner1_co.computer_oaner_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-01 16:12:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4efd734e988d70107f440dfe35f5a042</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer_oaners</sys_name>
+        <sys_package display_value="Loaner1 Computer" source="x_cdltd_loaner1_co">1d2ac386980d70107f440dfe35f5a0d1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner1 Computer">1d2ac386980d70107f440dfe35f5a0d1</sys_scope>
+        <sys_update_name>sys_ui_module_4efd734e988d70107f440dfe35f5a042</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-01 16:12:10</sys_updated_on>
+        <table>x_cdltd_loaner1_co_computer_oaner</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner1 Computer">1d2ac386980d70107f440dfe35f5a0d1</application>
+        <file_path/>
+        <instance_id>8ef7a02ddbc534503e1000b5ca961914</instance_id>
+        <instance_name>adf-jun-392-dev-005</instance_name>
+        <name>sys_ui_module_4efd734e988d70107f440dfe35f5a042</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Computer">4afd734e988d70107f440dfe35f5a03f</application><filter/><name>Computer_oaners</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_cdltd_loaner1_co.computer_oaner_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-01 16:12:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4efd734e988d70107f440dfe35f5a042</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Computer_oaners</sys_name><sys_package display_value="Loaner1 Computer" source="x_cdltd_loaner1_co">1d2ac386980d70107f440dfe35f5a0d1</sys_package><sys_policy/><sys_scope display_value="Loaner1 Computer">1d2ac386980d70107f440dfe35f5a0d1</sys_scope><sys_update_name>sys_ui_module_4efd734e988d70107f440dfe35f5a042</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-01 16:12:10</sys_updated_on><table>x_cdltd_loaner1_co_computer_oaner</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1788954050</payload_hash>
+        <record_name>Computer_oaners</record_name>
+        <reverted_from/>
+        <source>a9cba74e984d70107f440dfe35f5a073</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-01 16:12:10</sys_created_on>
+        <sys_id>4efd734e988d70107f440dfe35f5a045</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a62d788260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-01 16:12:10</sys_updated_on>
+        <type>Module</type>
+        <update_guid>86fd734efc8d701093ac780994e7ef45</update_guid>
+        <update_guid_history>86fd734efc8d701093ac780994e7ef45:1788954050</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-01 16:12:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>b8dadab5af3942d4b79cf457a5020210</sys_id>
+        <sys_metadata>4efd734e988d70107f440dfe35f5a042</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Computer_oaners</sys_name>
+        <sys_package display_value="Loaner1 Computer" source="x_cdltd_loaner1_co">1d2ac386980d70107f440dfe35f5a0d1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner1 Computer">1d2ac386980d70107f440dfe35f5a0d1</sys_scope>
+        <sys_scope_delete display_value="">6838336cf8864a909875b4afe63a06c4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_4efd734e988d70107f440dfe35f5a042</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_4efd734e988d70107f440dfe35f5a042">4efd734e988d70107f440dfe35f5a045</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-01 16:12:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
